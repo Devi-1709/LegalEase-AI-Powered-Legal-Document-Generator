@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+streamlit
+google-generativeai
+python-docx
+fpdf2
+Pillow
+requests
+python-dotenv
